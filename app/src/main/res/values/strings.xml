@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Muslim Media</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_getting_news">Getting news...</string>
+    <string name="content_desc_image_news">content image news</string>
+    <string name="detail_image_news">Detail Image News</string>
+    <string name="search">search</string>
+    <string name="search_for_hot_news">search for hot news</string>
+</resources>
